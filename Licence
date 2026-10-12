@@ -1,0 +1,116 @@
+# Corex-Xorion Project License
+
+## Corex Public Site License (CPSL) v1.1 – Corex-Xorion Annex
+
+**Copyright © 2026 Corex Institut. All rights reserved.**
+
+By using **Corex-Xorion**, you accept the following conditions.
+
+---
+
+## 1. Purpose of the License
+
+This license applies **exclusively** to the **Corex-Xorion** project and its associated source code. It does **not** apply to any other projects, tools, or content from Corex Institut (such as YT_install.exe, OutSond, Ultra Booster, Corex-Aria, Corex-Aria-Img, Corex-Aria-Vd, or any other project).
+
+---
+
+## 2. Use of the Project
+
+Corex-Xorion is a project designed to provide a simple, fast, and intuitive experience.
+
+It is distributed in the form indicated on the official website (application, tool, service, or other). Terms of use are detailed in the associated documentation.
+
+The goal of Corex-Xorion is to offer an efficient and accessible solution for everyone, focusing on simplicity and performance.
+
+To use Corex-Xorion, simply follow the instructions provided on the official website.
+
+You are authorized to use this project freely, in compliance with applicable laws and the present conditions.
+
+---
+
+## 3. Use of the Source Code
+
+The source code of **Corex-Xorion** may be used, studied, modified, and redistributed, including in derived projects (forks), provided that all conditions of this license are respected.
+
+> **Note:** If Corex-Xorion is distributed only in compiled form (`.exe`, extension, etc.) and the source code is not published, the prohibitions on decompilation and reverse engineering apply (see section 3 bis below).
+
+---
+
+## 3 bis. Absence of Source Code (if applicable)
+
+If **Corex-Xorion** is currently distributed **only** in compiled form (`.exe`, extension, binary, etc.):
+
+- no authorization to use, study, modify, or redistribute the source code is granted;
+- any attempt to decompile, disassemble, reverse engineer, or extract the source code is **strictly prohibited**;
+- the distributed file may not be modified, altered, or redistributed in any form other than that provided by Corex Institut.
+
+---
+
+## 4. Mandatory Attribution
+
+Anyone using all or part of **Corex-Xorion**, whether in its original or modified version, must:
+
+- retain the copyright notices present in the code or application where they exist;
+- clearly state that the project is based on a fork or modification of the original project, if applicable;
+- indicate the name of the original company: **Corex Institut**;
+- indicate the name of the original author;
+- provide a visible link to the project's official website: **https://corexinstitut.netlify.app**.
+
+This information must be visible in the documentation, the project repository, or any other location reasonably accessible to users.
+
+---
+
+## 5. Prohibition of Impersonating the Author
+
+It is strictly prohibited to:
+
+- claim to be the original author of all or part of Corex-Xorion;
+- remove or modify information identifying the original author in order to mislead users;
+- present the original project as being entirely your own creation.
+
+You are authorized to state that you have created a **fork**, a **modified version**, or an **adaptation**, provided you clearly specify that you are not the author of the original project.
+
+---
+
+## 6. Modifications
+
+You are free to modify the source code of **Corex-Xorion** (if it is published). However, the modifications you make remain clearly distinct from the original project and must not suggest that they come from the original author.
+
+If the project is distributed only in compiled form, no modification is authorized.
+
+---
+
+## 7. Use of Content
+
+Unless otherwise stated, the texts, images, logos, and other content present on the site remain protected by copyright and are not covered by the authorization granted for the source code.
+
+---
+
+## 8. No Warranty
+
+The **Corex-Xorion** project is provided "as is", without any warranty, express or implied. The author cannot be held liable for any direct or indirect damages related to its use.
+
+---
+
+## 9. Changes
+
+This license may be modified at any time. The version published on the official website shall prevail.
+
+---
+
+## Summary
+
+- ✅ Use of Corex-Xorion authorized.
+- ✅ Use of source code authorized (if published).
+- ✅ Modification of code authorized (if published).
+- ✅ Redistribution of code authorized (if published).
+- ✅ Creation of forks authorized (if code published).
+- ❌ Access to source code not authorized (if not published).
+- ❌ Decompilation / disassembly / reverse engineering prohibited (if not published).
+- ✅ Use in personal or commercial projects authorized.
+- ✅ Obligation to mention **Corex Institut**.
+- ✅ Obligation to indicate the name of the original author.
+- ✅ Obligation to add a link to **https://corexinstitut.netlify.app**.
+- ✅ Obligation to indicate when it is a fork or modified version.
+- ❌ Prohibition of impersonating the original author.
+- ❌ Prohibition of removing attribution information intended to mislead users.
